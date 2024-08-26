@@ -1,7 +1,7 @@
 class Test {
-  testFunction () {
-    console.log('Hello World')
+  testFunction() {
+    console.log("Hello World");
   }
 }
 
-new Test().testFunction()
+new Test().testFunction();
